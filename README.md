@@ -16,24 +16,18 @@
 
 ## 🛠️ Tech Stack
 
-### 📊 Data & Analytics
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+**Data & Analytics:**  
+SQL · Power BI · Excel  
 
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+**Programming:**  
+Python · C++ · PHP  
 
-### ☁️ Cloud & Big Data
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+**Cloud & Big Data:**  
+Azure · Databricks  
 
-### 🤖 Other Skills
-- 🧠 Artificial Intelligence (AI)
-- 🔄 ETL Processes
-- 🗂️ Git & GitHub
+**Other:**  
+Artificial Intelligence · ETL Processes · Git & GitHub  
+
 
 ---
 
