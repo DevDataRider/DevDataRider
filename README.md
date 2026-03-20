@@ -20,7 +20,16 @@ Systems Engineering student (7th semester), ranked in the top fifth of my class,
 
 🗂️ Git & GitHub
 
-
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/DevDataRider/count.svg"/>
+  <br/>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=DevDataRider&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDataRider&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevDataRider&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DevDataRider&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DevDataRider&theme=github_dark&hide_border=true)<br/>
