@@ -39,15 +39,10 @@
 
 ## 👀 Profile Visits
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/DevDataRider/count.svg"/>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DevDataRider&label=Views&color=blueviolet&style=for-the-badge"/>
+</p>
 
----
-
-## 📫 Connect with Me
-- 💼 LinkedIn: *(add your link here)*  
-- 📧 Email: *(add your email here)*  
 
 ---
 
