@@ -50,14 +50,11 @@ Artificial Intelligence · ETL Processes · Git & GitHub
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DevDataRider&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDataRider&theme=tokyonight&hide_border=true&layout=compact"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=DevDataRider&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDataRider&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevDataRider&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
-
 </div>
 
 ---
