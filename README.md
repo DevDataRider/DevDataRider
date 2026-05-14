@@ -44,6 +44,7 @@ Artificial Intelligence · ETL Processes · Git & GitHub
 ## 📂 Projects
 - 🚲 [BiciMundo](https://github.com/DevDataRider/Projects_UNI/tree/master/BiciMundo)
 - 🎫 [SistemaTicketsOBU](https://github.com/DevDataRider/Projects_UNI/tree/master/SistemaTicketsOBU)
+- 🔔 [SEACE Monitor](https://github.com/DevDataRider/seace-monitor)
 
 ---
 
