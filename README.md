@@ -34,6 +34,7 @@ Artificial Intelligence · ETL Processes · Git & GitHub
 ---
 
 ## 🏅 Certifications
+- 🔖 Microsoft Certified: Azure Data Fundamentals DP-900
 - 🧡 Databricks Fundamentals Badge
 - 🗄️ Master en SQL Server: Desde Cero hasta Experto [2026]
 - 🐬 Curso Completo de MySQL
