@@ -8,7 +8,7 @@
 ---
 
 ## 💫 About Me
-- 🎓 Systems Engineering student (7th semester), top 20% of my class  
+- 🎓 Systems Engineering student (8th semester), top 20% of my class  
 - ⚙️ Specialized in **data pipelines, data modeling, and cloud architectures**  
 - 🧠 Experience with **SQL Server & Python** for data transformation and structuring  
 - ☁️ Currently strengthening skills in **ETL processes and Azure services**  
