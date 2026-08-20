@@ -2,7 +2,7 @@
 
 🌐 **Portfolio:** [devdatarider.github.io](https://devdatarider.github.io)
 
-🎓 Systems Engineering student (7th semester), ranked in the top fifth of my class  
+🎓 Systems Engineering student (8th semester), ranked in the top fifth of my class  
 💡 Focused on **Data Engineering**, passionate about building data-driven solutions  
 
 ---
